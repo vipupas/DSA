@@ -28,5 +28,9 @@ void explainPQ(){
 	 pq.emplace(10)	// {2,5,8,10}
 	 
 	 cout << pq.top(); // 2
-			   
+	
+
+// time complexity 
+// push and pop - log(n)
+// top - O(1)	 
 }
