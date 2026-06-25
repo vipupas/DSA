@@ -20,4 +20,5 @@ void explainQueue(){
 	cout << q.front(); // 2
 	
 	// size, swap , empty same as stack
+	// O(1) 
 }
