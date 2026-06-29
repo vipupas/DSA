@@ -33,4 +33,6 @@ void explainSet(){
 	
 	auto it = st.lower_bound(2);	// iteration must be >= 2 
 	auto it = st.lower_bound(3);	// iteration must be > 3
+	
+	// complexsity is log(N)
 }
